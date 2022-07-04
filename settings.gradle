@@ -1,0 +1,2 @@
+rootProject.name = "ReviewJujur Administrator"
+include ':app'
